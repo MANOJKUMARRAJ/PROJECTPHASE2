@@ -1,0 +1,87 @@
+.header{
+    margin: auto;
+ width: 90%;
+ height: 15%;
+ display: flex;
+ justify-content: space-between;
+
+}
+.heading{
+    font-size: 20px;
+
+ font-weight: 700;
+ color: #2F3841;
+}
+.action{
+    font-size: 14px;
+
+    font-weight: 600;
+    color: #E44C4C;
+    cursor: pointer;
+    border-bottom: 1px solid #E44C4C;
+}
+.cartitems{
+    margin: auto;
+ width: 90%;
+ height: 30%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.imggbox{
+    width: 15%;
+    text-align: center;
+}
+.about{
+    height: 100%;
+    float: right;
+}
+.tit{
+    padding-top: 5px;
+    line-height: 10px;
+    font-size: 32px;
+    font-family: ‘Open Sans’;
+    font-weight: 800;
+    color: #202020;
+
+}
+.subtitle{
+    line-height: 10px;
+    font-size: 18px;
+    font-family: ‘Open Sans’;
+    font-weight: 600;
+    color: #909090;
+
+}
+.counterrr{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.bt{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: ‘Open Sans’;
+    font-weight: 900;
+    color: #202020;
+    cursor: pointer;
+    align-items: center;
+
+}
+.countt{
+    font-size: 20px;
+ font-family: ‘Open Sans’;
+ font-weight: 900;
+ color: #202020;
+ text-align: center;
+
+}

@@ -1,38 +1,15 @@
 
 
 
-![Screenshot (8)](https://user-images.githubusercontent.com/109128770/179940094-74d4aba9-547d-408f-9a14-7676b367afdf.png)
 
-
-
-
-
-
-![Screenshot (9)](https://user-images.githubusercontent.com/109128770/179940103-a0981338-5bca-4268-922b-9b48faa2e00e.png)
-
-
-![Screenshot (10)](https://user-images.githubusercontent.com/109128770/179940117-18d578e0-1bb3-47ce-a658-1ee712591fb4.png)
-
-
-
-
-
-
-
-![Screenshot (11)](https://user-images.githubusercontent.com/109128770/179940128-fc2bbc68-520c-4224-9780-c3a33cf0b7e7.png)
-
-
-![Screenshot (12)](https://user-images.githubusercontent.com/109128770/179940147-79921862-cd8f-4e9d-b85d-d8998ce2e492.png)
-
-
-![Screenshot (13)](https://user-images.githubusercontent.com/109128770/179940187-108391a0-9203-4dec-9a90-c384842428fa.png)
-
-![Screenshot (15)](https://user-images.githubusercontent.com/109128770/179940234-37d4bb26-edd0-4c7a-9c82-ed09a82e961b.png)
-
-
-![Screenshot (16)](https://user-images.githubusercontent.com/109128770/179940259-aa61ff4a-c515-4991-b62b-5c7f902b6ca1.png)
-
-
+![Screenshot (4)](https://user-images.githubusercontent.com/109128770/182080510-28df1264-1b83-4914-af55-dde4d89b9080.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/109128770/182080516-85376ef0-a3c5-4157-891e-7ca4ccdd5d30.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/109128770/182080518-396e29ad-9561-4970-a7ae-bd40590ebef6.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/109128770/182080523-70279fc8-681c-4724-b819-fa5b38f7cb3c.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/109128770/182080524-8c37d05a-b80d-401b-b890-7268255c97f8.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/109128770/182080526-a36ca7d3-4f47-4c20-9977-819b893aa9a1.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/109128770/182080528-754b2c9b-ad54-41d2-b9b0-793340dde9b7.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/109128770/182080531-3afa88d7-ed22-4299-9ac3-bc8bf7e4650c.png)
 
 # Getting Started with Create React App
 
